@@ -1,8 +1,9 @@
 <h2> Hi, I'm Cameron! <img src="https://media.giphy.com/media/36TQhuWtnstMtF24df/giphy.gif" width="75"></h2>
-<img align='right' src="https://giphy.com/gifs/mrurbinaco-teacher-teachers-mr-urbina-kV0cEAFnweUPKOsXhh" width="230">
+<img align='right' src="https://media3.giphy.com/media/kV0cEAFnweUPKOsXhh/giphy.gif" width="230">
 <p><em>Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<iframe src="https://giphy.com/embed/kV0cEAFnweUPKOsXhh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrurbinaco-teacher-teachers-mr-urbina-kV0cEAFnweUPKOsXhh">via GIPHY</a></p>
 
 
 

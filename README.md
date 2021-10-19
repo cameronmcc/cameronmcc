@@ -1,4 +1,4 @@
-<h2> Hi, I'm Cameron! <img src="https://media2.giphy.com/media/EObi5EB9PNhBIIgyrs/giphy.gif?cid=790b761174boi1pnotet1fnuex6b5ak2b08e48axsrselru3&rid=giphy.gif&ct=s" width="60"></h2>
+<h2> Hi, I'm Cameron! <img src="https://media3.giphy.com/media/kyRP7l8a1fcYo86esL/giphy.gif?cid=790b7611tgxrzq88bi9ibfvhzq8h4zis056qu9srk5yvwi20&rid=giphy.gif&ct=s" width="60"></h2>
 <img align='right' src="https://media3.giphy.com/media/kV0cEAFnweUPKOsXhh/giphy.gif" width="230">
 <p><em>Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>

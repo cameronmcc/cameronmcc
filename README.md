@@ -1,7 +1,7 @@
 <h2> Hi, I'm Cameron! <img src="https://media4.giphy.com/media/36TQhuWtnstMtF24df/giphy.gif?cid=790b76111cw2sv3pcyegx7kcx0epaix5vlobr506gi7c4eqe&rid=giphy.gif&ct=s" width="75"></h2>
 <img align='right' src="https://media3.giphy.com/media/kV0cEAFnweUPKOsXhh/giphy.gif" width="230">
-<p><em>Full Stack Software Engineer in Los Angeles <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </em></p>
-| Looking for Web Development roles |
+<p><em>Full Stack Software Engineer in Los Angeles <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> | Looking for Web Development roles | </em></p>
+
 
 
 A little more about me...  

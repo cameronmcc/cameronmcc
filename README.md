@@ -1,5 +1,5 @@
 <h2> Hi, I'm Cameron! <img src="https://media.giphy.com/media/36TQhuWtnstMtF24df/giphy.gif" width="75"></h2>
-<img align='right' src="https://giphy.com/embed/kV0cEAFnweUPKOsXhh" width="230">
+<img align='right' src="https://giphy.com/gifs/mrurbinaco-teacher-teachers-mr-urbina-kV0cEAFnweUPKOsXhh" width="230">
 <p><em>Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 

@@ -8,12 +8,12 @@ A little more about me...
 
 ```javascript
 const Cameron = {
-  pronouns: "he" | "him",
+  Looking for: "Web Development roles",
   Languages: [Javascript (incl. ES6 and Node JS), Python, HTML5, CSS3],
   Databases: [MongoDB (with Mongoose and Cloud Atlas), SQL, NoSQL, Django ORM],
   Application Frameworks: [MERN, Django, React, Node.js],
   Other Tech: [Express.js, Axios, jQuery, Folium, Pandas, bootstrap, jest.js, cucumber.js, Git, GitHub]
-  Looking for: "Web Development roles"
+
 
 }
 ```

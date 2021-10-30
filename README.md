@@ -8,7 +8,6 @@ A little more about me...
 
 ```javascript
 const Cameron = {
-  Looking for: "Full Stack Web Development roles",
   Languages: [Javascript (incl. Node + Express), Python, HTML5, CSS3],
   Databases: [MongoDB (incl. Mongoose + Cloud Atlas), SQL, NoSQL, Django ORM],
   Application Frameworks: [MERN, Django, React, Node.js],

@@ -8,9 +8,9 @@ A little more about me...
 
 ```javascript
 const Cameron = {
-  Languages: [Javascript (incl. Node + Express), Python, HTML5, CSS3],
+  Languages: [Javascript (incl. Node + Express), Python, HTML5, CSS3, PHP],
   Databases: [MongoDB (incl. Mongoose + Cloud Atlas), SQL, NoSQL, Django ORM],
-  Application Frameworks: [MERN, Django, React, Node.js],
+  Application Frameworks: [MERN, Laravel, Django, React, Node.js],
   Other Tech: [Express.js, Axios, jQuery, Folium, Pandas, bootstrap, jest.js, cucumber.js, Git, GitHub]
 
 

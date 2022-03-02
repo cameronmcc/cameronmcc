@@ -15,8 +15,6 @@ const Cameron = {
          jQuery, Axios, Folium, Pandas, Bootstrap, Jest, Cypress, Cucumber, DayJS, Bcrypt, Morgan, 
          Helmet, Dotenv, Nodemon, CORS, JSON / CSRF Web Tokens, WkhtmltoPDF, Docker, Git, GitHub, 
          Gitlab, Sentry]
-
-
 }
 ```
 

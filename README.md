@@ -8,10 +8,10 @@ A little more about me...
 
 ```javascript
 const Cameron = {
-  Languages: [Javascript (incl. Node + Express), Python, HTML5, CSS3, PHP],
-  Databases: [MongoDB (incl. Mongoose + Cloud Atlas), SQL, NoSQL, Django ORM],
-  Application Frameworks: [MERN, Laravel, Django, React, Node.js],
-  Other Tech: [Express.js, Axios, jQuery, Folium, Pandas, bootstrap, jest.js, cucumber.js, Git, GitHub]
+  Languages: [Javascript, PHP, Python, Typescript, HTML5, CSS3, Java],
+  Databases: [MongoDB (w/ Mongoose + Atlas), SQL, NoSQL, Eloquent ORM, Django ORM],
+  Frameworks: [MERN, Laravel, React, Node, Vue, Django, Material UI, Bootstrap, Vuetify, Spring Boot],
+  Tools: [Express, Axios, Redux (w/ Sagas/Thunk + selectors), Context API, Fetch API, Formik, Yup, jQuery, Axios, Folium, Pandas, Bootstrap, Jest, Cypress, Cucumber, DayJS, Bcrypt, Morgan, Helmet, Dotenv, Nodemon, CORS, JSON / CSRF Web Tokens, WkhtmltoPDF, Docker, Git, GitHub, Gitlab, Sentry]
 
 
 }

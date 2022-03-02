@@ -11,7 +11,10 @@ const Cameron = {
   Languages: [Javascript, PHP, Python, Typescript, HTML5, CSS3, Java],
   Databases: [MongoDB (w/ Mongoose + Atlas), SQL, NoSQL, Eloquent ORM, Django ORM],
   Frameworks: [MERN, Laravel, React, Node, Vue, Django, Material UI, Bootstrap, Vuetify, Spring Boot],
-  Tools: [Express, Axios, Redux (w/ Sagas/Thunk + selectors), Context API, Fetch API, Formik, Yup, jQuery, Axios, Folium, Pandas, Bootstrap, Jest, Cypress, Cucumber, DayJS, Bcrypt, Morgan, Helmet, Dotenv, Nodemon, CORS, JSON / CSRF Web Tokens, WkhtmltoPDF, Docker, Git, GitHub, Gitlab, Sentry]
+  Tools: [Express, Axios, Redux (w/ Sagas/Thunk + selectors), Context API, Fetch API, Formik, Yup,
+         jQuery, Axios, Folium, Pandas, Bootstrap, Jest, Cypress, Cucumber, DayJS, Bcrypt, Morgan, 
+         Helmet, Dotenv, Nodemon, CORS, JSON / CSRF Web Tokens, WkhtmltoPDF, Docker, Git, GitHub, 
+         Gitlab, Sentry]
 
 
 }

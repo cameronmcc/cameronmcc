@@ -8,7 +8,7 @@ A little more about me...
 
 ```javascript
 const Cameron = {
-  Languages: [Javascript,Typescript, Python, HTML5, CSS3, Java, PHP],
+  Languages: [Javascript, Typescript, Python, HTML5, CSS3, Java, PHP],
   Databases: [MongoDB (w/ Mongoose + Atlas), MySQL, NoSQL, Eloquent ORM, Django ORM, Mikro ORM],
   Frameworks: [MERN, Laravel, React, Node, Vue (2/3), Django, Material UI, Bootstrap, Vuetify, Spring Boot],
   Tools: [Express, Axios, Redux (w/ Sagas/Thunk + selectors), Context API, Fetch API, Formik, Yup,

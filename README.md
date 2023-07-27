@@ -8,9 +8,9 @@ A little more about me...
 
 ```javascript
 const Cameron = {
-  Languages: [Javascript, PHP, Python, Typescript, HTML5, CSS3, Java],
-  Databases: [MongoDB (w/ Mongoose + Atlas), MySQL, NoSQL, Eloquent ORM, Django ORM],
-  Frameworks: [MERN, Laravel, React, Node, Vue, Django, Material UI, Bootstrap, Vuetify, Spring Boot],
+  Languages: [Javascript,Typescript, Python, HTML5, CSS3, Java, PHP],
+  Databases: [MongoDB (w/ Mongoose + Atlas), MySQL, NoSQL, Eloquent ORM, Django ORM, Mikro ORM],
+  Frameworks: [MERN, Laravel, React, Node, Vue (2/3), Django, Material UI, Bootstrap, Vuetify, Spring Boot],
   Tools: [Express, Axios, Redux (w/ Sagas/Thunk + selectors), Context API, Fetch API, Formik, Yup,
          jQuery, Axios, Folium, Pandas, Bootstrap, Jest, Cypress, Cucumber, DayJS, Bcrypt, Morgan, 
          Helmet, Dotenv, Nodemon, CORS, JSON / CSRF Web Tokens, WkhtmltoPDF, Docker, Git, GitHub, 
